@@ -3,7 +3,9 @@ _Daniele Moro_ and _Oghenemaro Anuyah_
 
 CS 497 Applied Deep Learning Final Project
 
-This is a bot that automatically generates personal compliments based on a user's image and written emotional state. It uses a seq2seq model with an LSTM and word-level embeddings.
+Winner of top 3 final presentations in the class.
+
+This is a bot that automatically generates personal compliments based on a user's image and written emotional state. It uses a seq2seq model with an LSTM and GLOVE embeddings.
 
 For more details, see `FinalReport.pdf`
 
